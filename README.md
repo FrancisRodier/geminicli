@@ -16,7 +16,7 @@ GeminiCLI is a command-line interface tool written in Go, designed to interact w
 
 To install GeminiCLI, clone the repository to your local machine:  
 ```bash 
-git clone https://github.com/benjaminwestern/geminicli.git cd geminicli
+git clone https://github.com/benjaminwestern/geminicli.git && cd geminicli
 ```
 
 Change directory to the geminicli repo you just cloned, then, build the binary using:
